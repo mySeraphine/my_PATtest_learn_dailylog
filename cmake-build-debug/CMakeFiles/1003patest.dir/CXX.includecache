@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/Programmer/Github_repository/PAT_test_log/my_PATtest_learn_dailylog/1003patest.cpp
+iostream
+-
+algorithm
+-
+string
+-
+map
+-
+

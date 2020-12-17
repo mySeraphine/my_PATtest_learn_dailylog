@@ -1,0 +1,4 @@
+ToolSet: w64 8.0 (local)@D:\Programmer\Rust\Msys2\msys2_files\mingw64
+Options: 
+
+Options:
