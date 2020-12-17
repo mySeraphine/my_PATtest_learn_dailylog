@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/Programmer/Github_repository/PAT_test_log/my_PATtest_learn_dailylog/main.cpp" "D:/Programmer/Github_repository/PAT_test_log/my_PATtest_learn_dailylog/cmake-build-debug/CMakeFiles/my_PATtest_learn_dailylog.dir/main.cpp.obj"
+  "D:/Programmer/Github_repository/PAT_test_log/my_PATtest_learn_dailylog/1004patest.cpp" "D:/Programmer/Github_repository/PAT_test_log/my_PATtest_learn_dailylog/cmake-build-debug/CMakeFiles/1004patest.dir/1004patest.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

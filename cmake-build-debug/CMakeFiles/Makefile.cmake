@@ -54,4 +54,5 @@ set(CMAKE_MAKEFILE_PRODUCTS
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/1003patest.dir/DependInfo.cmake"
+  "CMakeFiles/1004patest.dir/DependInfo.cmake"
   )

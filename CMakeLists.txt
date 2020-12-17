@@ -4,3 +4,4 @@ project(my_PATtest_learn_dailylog)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(1003patest 1003patest.cpp)
+add_executable(1004patest 1004patest.cpp)

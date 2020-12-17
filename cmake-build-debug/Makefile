@@ -142,6 +142,19 @@ depend:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1003patest.dir\build.make CMakeFiles/1003patest.dir/build
 .PHONY : 1003patest/fast
 
+#=============================================================================
+# Target rules for targets named 1004patest
+
+# Build rule for target.
+1004patest: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 1004patest
+.PHONY : 1004patest
+
+# fast build rule for target.
+1004patest/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1004patest.dir\build.make CMakeFiles/1004patest.dir/build
+.PHONY : 1004patest/fast
+
 1003patest.obj: 1003patest.cpp.obj
 
 .PHONY : 1003patest.obj
@@ -169,6 +182,33 @@ depend:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\1003patest.dir\build.make CMakeFiles/1003patest.dir/1003patest.cpp.s
 .PHONY : 1003patest.cpp.s
 
+1004patest.obj: 1004patest.cpp.obj
+
+.PHONY : 1004patest.obj
+
+# target to build an object file
+1004patest.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1004patest.dir\build.make CMakeFiles/1004patest.dir/1004patest.cpp.obj
+.PHONY : 1004patest.cpp.obj
+
+1004patest.i: 1004patest.cpp.i
+
+.PHONY : 1004patest.i
+
+# target to preprocess a source file
+1004patest.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1004patest.dir\build.make CMakeFiles/1004patest.dir/1004patest.cpp.i
+.PHONY : 1004patest.cpp.i
+
+1004patest.s: 1004patest.cpp.s
+
+.PHONY : 1004patest.s
+
+# target to generate assembly for a file
+1004patest.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\1004patest.dir\build.make CMakeFiles/1004patest.dir/1004patest.cpp.s
+.PHONY : 1004patest.cpp.s
+
 # Help Target
 help:
 	@echo The following are some of the valid targets for this Makefile:
@@ -178,9 +218,13 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... 1003patest
+	@echo ... 1004patest
 	@echo ... 1003patest.obj
 	@echo ... 1003patest.i
 	@echo ... 1003patest.s
+	@echo ... 1004patest.obj
+	@echo ... 1004patest.i
+	@echo ... 1004patest.s
 .PHONY : help
 
 
