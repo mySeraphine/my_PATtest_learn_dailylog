@@ -1,4 +1,0 @@
-D:/Programmer/Github_repository/PAT_test_log/my_PATtest_learn_dailylog/cmake-build-debug/CMakeFiles/1003patest.dir
-D:/Programmer/Github_repository/PAT_test_log/my_PATtest_learn_dailylog/cmake-build-debug/CMakeFiles/1004patest.dir
-D:/Programmer/Github_repository/PAT_test_log/my_PATtest_learn_dailylog/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Programmer/Github_repository/PAT_test_log/my_PATtest_learn_dailylog/cmake-build-debug/CMakeFiles/rebuild_cache.dir
